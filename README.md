@@ -10,3 +10,6 @@ npm i @heroicons/react@2.0.16
 npm i react-router-dom@6.10.0 axios@1.3.4
 ```
 https://tailwindcss.com/docs/guides/create-react-app
+
+
+「ra」と打つと、デフォルトテンプレートが表示される
